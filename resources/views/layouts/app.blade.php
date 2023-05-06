@@ -20,11 +20,11 @@
                 <a class="font-weight-bold 
                 text-uppercase text-white 
                 text-sm-center 
-                text-decoration-none" href="#">Iniciar Sesión</a>
+                text-decoration-none" href="/login">Iniciar Sesión</a>
                 <a class="font-weight-bold 
                 text-uppercase text-white 
                 text-sm-center 
-                text-decoration-none" href="/crear-cuenta">Crear Cuenta</a>
+                text-decoration-none" href="/register">Crear Cuenta</a>
               </nav>
             </div>
           </header>

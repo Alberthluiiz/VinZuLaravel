@@ -15,7 +15,7 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('auth/inicio');
+    return view('login');
 });
 /* crear-cuenta se encuenta -> layout/app */
-Route::get('/crear-cuenta', [RegisterController::class, 'index']);
+Route::get('/register', [RegisterController::class, 'index']);
